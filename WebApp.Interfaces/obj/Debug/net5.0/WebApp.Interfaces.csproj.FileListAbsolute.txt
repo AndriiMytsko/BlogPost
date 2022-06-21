@@ -1,0 +1,12 @@
+E:\Projects\BlogPost\WebApp.Interfaces\bin\Debug\net5.0\WebApp.Interfaces.deps.json
+E:\Projects\BlogPost\WebApp.Interfaces\bin\Debug\net5.0\WebApp.Interfaces.dll
+E:\Projects\BlogPost\WebApp.Interfaces\bin\Debug\net5.0\ref\WebApp.Interfaces.dll
+E:\Projects\BlogPost\WebApp.Interfaces\bin\Debug\net5.0\WebApp.Interfaces.pdb
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.csproj.AssemblyReference.cache
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.AssemblyInfoInputs.cache
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.AssemblyInfo.cs
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.csproj.CoreCompileInputs.cache
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.dll
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\ref\WebApp.Interfaces.dll
+E:\Projects\BlogPost\WebApp.Interfaces\obj\Debug\net5.0\WebApp.Interfaces.pdb

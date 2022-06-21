@@ -1,0 +1,12 @@
+E:\Projects\BlogPost\Email.Interfaces\bin\Debug\net5.0\Email.Interfaces.deps.json
+E:\Projects\BlogPost\Email.Interfaces\bin\Debug\net5.0\Email.Interfaces.dll
+E:\Projects\BlogPost\Email.Interfaces\bin\Debug\net5.0\ref\Email.Interfaces.dll
+E:\Projects\BlogPost\Email.Interfaces\bin\Debug\net5.0\Email.Interfaces.pdb
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.csproj.AssemblyReference.cache
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.AssemblyInfoInputs.cache
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.AssemblyInfo.cs
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.csproj.CoreCompileInputs.cache
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.dll
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\ref\Email.Interfaces.dll
+E:\Projects\BlogPost\Email.Interfaces\obj\Debug\net5.0\Email.Interfaces.pdb

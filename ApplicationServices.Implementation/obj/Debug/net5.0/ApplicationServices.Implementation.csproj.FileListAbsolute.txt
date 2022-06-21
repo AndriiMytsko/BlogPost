@@ -1,0 +1,15 @@
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ApplicationServices.Implementation.deps.json
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ApplicationServices.Implementation.dll
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ref\ApplicationServices.Implementation.dll
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ApplicationServices.Implementation.pdb
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ApplicationServices.Interfaces.dll
+E:\Projects\BlogPost\ApplicationServices.Implementation\bin\Debug\net5.0\ApplicationServices.Interfaces.pdb
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.csproj.AssemblyReference.cache
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.AssemblyInfoInputs.cache
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.AssemblyInfo.cs
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.csproj.CoreCompileInputs.cache
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.csproj.CopyComplete
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.dll
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ref\ApplicationServices.Implementation.dll
+E:\Projects\BlogPost\ApplicationServices.Implementation\obj\Debug\net5.0\ApplicationServices.Implementation.pdb

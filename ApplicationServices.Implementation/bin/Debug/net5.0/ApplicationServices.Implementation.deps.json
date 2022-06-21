@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ApplicationServices.Implementation/1.0.0": {
+        "dependencies": {
+          "ApplicationServices.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "ApplicationServices.Implementation.dll": {}
+        }
+      },
+      "ApplicationServices.Interfaces/1.0.0": {
+        "runtime": {
+          "ApplicationServices.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationServices.Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApplicationServices.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

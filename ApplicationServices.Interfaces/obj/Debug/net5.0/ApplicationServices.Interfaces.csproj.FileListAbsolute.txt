@@ -1,0 +1,12 @@
+E:\Projects\BlogPost\ApplicationServices.Interfaces\bin\Debug\net5.0\ApplicationServices.Interfaces.deps.json
+E:\Projects\BlogPost\ApplicationServices.Interfaces\bin\Debug\net5.0\ApplicationServices.Interfaces.dll
+E:\Projects\BlogPost\ApplicationServices.Interfaces\bin\Debug\net5.0\ref\ApplicationServices.Interfaces.dll
+E:\Projects\BlogPost\ApplicationServices.Interfaces\bin\Debug\net5.0\ApplicationServices.Interfaces.pdb
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.csproj.AssemblyReference.cache
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.AssemblyInfoInputs.cache
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.AssemblyInfo.cs
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.csproj.CoreCompileInputs.cache
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.dll
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ref\ApplicationServices.Interfaces.dll
+E:\Projects\BlogPost\ApplicationServices.Interfaces\obj\Debug\net5.0\ApplicationServices.Interfaces.pdb
